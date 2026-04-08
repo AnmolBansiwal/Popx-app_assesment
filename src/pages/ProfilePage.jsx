@@ -18,7 +18,7 @@ export function ProfilePage({ setCurrentScreen }) {
         <div className="flex items-start gap-5">
           <div className="relative shrink-0">
             <img
-              src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80"
+              src="https://wallpaperaccess.com/full/5336105.jpg"
               alt="profile"
               className="h-[76px] w-[76px] rounded-full object-cover"
             />
@@ -30,9 +30,9 @@ export function ProfilePage({ setCurrentScreen }) {
 
           <div>
             <h2 className="text-[15px] font-semibold text-[#1d2226]">
-              Marry Doe
+              Anmol Bansiwal
             </h2>
-            <p className="text-[14px] text-[#1d2226]">MarryDoe@gmail.com</p>
+            <p className="text-[14px] text-[#1d2226]">anmol@gmail.com</p>
           </div>
         </div>
 
